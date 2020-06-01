@@ -1,0 +1,10 @@
+Package: dev.ayden.ios.lib.sys.aurora
+Name: libaurora
+Depends: mobilesubstrate, firmware (>= 11.0)
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Specialized out-of-process weather utility library.
+Tag: role::developer
+Maintainer: Ayden Panhuyzen
+Author: Ayden Panhuyzen
+Section: Development

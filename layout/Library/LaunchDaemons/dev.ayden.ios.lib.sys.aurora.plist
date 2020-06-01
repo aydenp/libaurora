@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>dev.ayden.ios.lib.sys.aurora</string>
+	<key>MachServices</key>
+	<dict>
+		<key>dev.ayden.ios.lib.sys.aurora</key>
+		<true/>
+	</dict>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Library/Application Support/libaurora/aurorad.bundle/aurorad</string>
+	</array>
+	<key>ProcessType</key>
+	<string>Standard</string>
+	<key>UserName</key>
+	<string>root</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>KeepAlive</key>
+	<true/>
+	<key>ExecuteAllowed</key>
+	<true/>
+</dict>
+</plist>
