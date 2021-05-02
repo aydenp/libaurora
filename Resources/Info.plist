@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>aurorad</string>
 	<key>CFBundleDisplayName</key>
-	<string>Jellyfish and Starfish Weather</string>
+	<string>Aurora (Starfish) Weather</string>
 	<key>CFBundleIdentifier</key>
 	<string>dev.ayden.ios.lib.sys.aurora</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -15,11 +15,11 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
+	<string>1.0.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.0.3</string>
 	<key>CLSystemService</key>
 	<true/>
 </dict>
